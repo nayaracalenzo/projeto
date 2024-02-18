@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-Sinta-se à vontade para acessar também o resultado desse projeto que participei como aluna por [este link](https://nayaracalenzo.github.io/projetos/).
+Sinta-se à vontade para acessar também o resultado desse projeto que participei como aluna por [este link](https://nayaracalenzo.github.io/projeto/).
